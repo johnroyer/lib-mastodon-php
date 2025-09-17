@@ -1,0 +1,17 @@
+{
+    "name": "zeroplex/lib-mastodon-php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zeroplex\\LibMastodonPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zero",
+            "email": "john.royer@gmail.com"
+        }
+    ],
+    "require": {}
+}
