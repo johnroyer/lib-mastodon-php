@@ -13,5 +13,7 @@
             "email": "john.royer@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.2"
+    }
 }
