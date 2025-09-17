@@ -21,7 +21,7 @@ class Mastodon
         array $header = null
     )
     {
-        if (!empty(self::$instance) {
+        if (!empty(self::$instance)) {
             return self::$instance;
         }
 
